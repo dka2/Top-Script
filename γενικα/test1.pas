@@ -20,7 +20,7 @@ begin
   finally
     ds.free;
   end;
-  //cImage.Picture.loadfromfile('D:\dka''s Documents\Axialis Librarian\Objects\Pack 9 - iPhone Tab Bar Icons\_HID_icon_sample9a.jpg');  
+  //cImage.Picture.loadfromfile('D:\dka''s Documents\Axialis Librarian\Objects\Pack 9 - iPhone Tab Bar Icons\_HID_icon_sample9a.jpg');
   f.caption:= itemtrnds['iteDescr'].asstring;
 end;
 
